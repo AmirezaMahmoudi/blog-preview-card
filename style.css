@@ -73,6 +73,9 @@ p {
     gap: 12px;
     margin-top: 24px;
 }
+.author h1 {
+    font-size: 14px;
+}
 h1:hover{
     cursor: pointer;
     color: var(--Yellow);
